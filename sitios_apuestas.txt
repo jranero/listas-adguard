@@ -1,0 +1,21 @@
+# Lista personalizada de apuestas (Microdiv)
+0.0.0.0 bet365.com
+0.0.0.0 www.bet365.com
+0.0.0.0 pokerstars.com
+0.0.0.0 www.pokerstars.com
+0.0.0.0 bwin.com
+0.0.0.0 www.bwin.com
+0.0.0.0 betway.com
+0.0.0.0 www.betway.com
+0.0.0.0 888sport.com
+0.0.0.0 www.888sport.com
+0.0.0.0 williamhill.com
+0.0.0.0 www.williamhill.com
+0.0.0.0 codere.es
+0.0.0.0 www.codere.es
+0.0.0.0 sportium.es
+0.0.0.0 www.sportium.es
+0.0.0.0 betfair.com
+0.0.0.0 www.betfair.com
+0.0.0.0 inkabet.com
+0.0.0.0 www.inkabet.com
