@@ -19,3 +19,4 @@
 0.0.0.0 www.betfair.com
 0.0.0.0 inkabet.com
 0.0.0.0 www.inkabet.com
+||*bet*^
